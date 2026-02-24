@@ -68,3 +68,6 @@ Typical fields stored:
 - **State management**: pending store prevents mistakes
 - **Language-aware UX**: responses in Spanish or English based on user input
 - **Scope control**: out-of-scope questions are redirected back to the core function
+
+
+<img width="1348" height="546" alt="image" src="https://github.com/user-attachments/assets/88eb1361-727e-40fb-9430-9e718ebd5e22" />
